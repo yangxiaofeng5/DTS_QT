@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>C:/Users/HP/Desktop/cofs_logo.png</file>
+        <file>C:/Users/HP/Desktop/cofs_logo.ico</file>
+    </qresource>
+</RCC>
